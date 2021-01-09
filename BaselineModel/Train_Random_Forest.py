@@ -15,9 +15,9 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
 
-dominant_testing = sys.argv[1]
-dominant_training = sys.argv[2]
-negative_training = sys.argv[3]
+dominant_training = sys.argv[1]
+negative_training = sys.argv[2]
+dominant_testing = sys.argv[3]
 negative_testing = sys.argv[4]
 
 outputfile = 'BaselineModel.pkl'
