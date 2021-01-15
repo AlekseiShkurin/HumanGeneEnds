@@ -1,6 +1,6 @@
 # HumanGeneEnds
 
-The scripts and files in this repository allow you to locally train the baseline and cryptic models described in : Shkurin, A,Go t and Hughes, TR, "Known sequence features can explain half of all human gene ends"     
+The scripts and files in this repository allow you to locally train the baseline and cryptic models described in : Shkurin, A and Hughes, TR, "Known sequence features can explain half of all human gene ends"     
 
 NOTE: in case of the baseline CPA classifier, the resulting model will be around 20 GB in size, so make sure you have enough memory  
 
